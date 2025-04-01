@@ -6,8 +6,6 @@ distilbert : https://huggingface.co/distilbert/distilbert-base-uncased
 
 robert : https://huggingface.co/FacebookAI/roberta-base
 
-albert : https://huggingface.co/albert/albert-base-v2
-
-electra : https://huggingface.co/google/electra-base-discriminator
+deberta :https://huggingface.co/microsoft/deberta-base
 
 

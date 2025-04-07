@@ -32,5 +32,5 @@ Este projeto visa realizar testes de benchmark para **classificação de emoçõ
 ## 🔥 Participação no CICS 2025
 Este projeto será apresentado no **CICS 2025**! Fique ligado para mais detalhes e discussões sobre os resultados. 🏆📢
 ---
-![GitHub]("imagem.png")
+![GitHub]('/imagem.png')
 ---

@@ -10,7 +10,7 @@ Este projeto visa realizar testes de benchmark para **classificação de emoçõ
 - ✅ Analisar a influência de diferentes técnicas de pré-processamento.
 
 ## 🛠️ Tecnologias Utilizadas
-- 🤖 **Modelos Utilizados**: Base BERT, DistilBERT, RoBERTa e DeBERTa
+- 🤖 **Modelos Utilizados**: Base BERT, DistilBERT, RoBERTa ,DeBERTa , ALBERT ,ELECTRA , XLNet
 - 🤖 **BERT** (Bidirectional Encoder Representations from Transformers)
 - 📝 **Hugging Face Transformers**
 - 📊 **Scikit-learn & Pandas**

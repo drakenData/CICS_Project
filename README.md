@@ -13,9 +13,9 @@ Este projeto visa realizar testes de benchmark para **classificação de emoçõ
 - 🤖 **Modelos Utilizados**: Base BERT, DistilBERT, RoBERTa ,DeBERTa , ALBERT ,ELECTRA , XLNet
 - 🤖 **BERT** (Bidirectional Encoder Representations from Transformers)
 - 📝 **Hugging Face Transformers**
-- 📊 **Scikit-learn & Pandas**
+- 📊 **Scikit-learn , Pandas e Numpy**
 - 🔥 **PyTorch**
-- 📈 **Matplotlib & Seaborn**
+- 📈 **Matplotlib**
 
 ## 📌 Metodologia
 1. **Coleta de Dados**: Uso de datasets públicos para classificação de emoções.

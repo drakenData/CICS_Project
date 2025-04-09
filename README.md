@@ -1,7 +1,7 @@
 # 🚀 Benchmark de Classificação de Emoções com BERT | CICS 2025
 
 ## 🎭 Sobre o Projeto
-Este projeto visa realizar testes de benchmark para **classificação de emoções** utilizando o modelo **BERT**. A pesquisa será apresentada no **CICS 2025**, explorando diferentes abordagens para avaliação de desempenho em tarefas de NLP.
+Este projeto visa realizar testes de benchmark para **classificação de emoções** utilizando os baseado em **BERT**. A pesquisa será apresentada no **CICS 2025**, explorando diferentes abordagens para avaliação de desempenho em tarefas de NLP.
 
 ## 🎯 Objetivos
 - ✅ Avaliar a eficácia do modelo **BERT** na classificação de emoções em textos.

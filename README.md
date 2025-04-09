@@ -18,11 +18,15 @@ Este projeto visa realizar testes de benchmark para **classificação de emoçõ
 - 📈 **Matplotlib**
 
 ## 📌 Metodologia
-1. **Coleta de Dados**: Uso de datasets públicos para classificação de emoções.
-2. **Pré-processamento**: Limpeza e tokenização dos textos.
-3. **Treinamento do Modelo**: Fine-tuning do **BERT** com diferentes abordagens.
-4. **Benchmarking**: Avaliação de métricas como **F1-score, precisão, recall e tempo de inferência**.
-5. **Análise e Conclusão**: Comparação dos resultados e discussões.
+1. **Modelos**: Explicação sobre cada modelos.
+2. **Dataset**: Dataset utilizado para nosso experimento.
+3. **Métrica**: Avaliação de métricas como **F1-score, precisão, recall**.
+4. **Parâmetros**: Apresentação do **Taxa de aprendizado,epocas,gpu,tamanho de lote**.
+5. **Resultados** : Tabelas comparativas dos modelos.
+6. **Discussão**: Discussão sobre resultados.
+---
+![GitHub](metodologia.png)
+---
 
 ## 📊 Resultados Esperados
 - 🚀 Melhor acurácia e generalização do modelo para diferentes tipos de emoções.
